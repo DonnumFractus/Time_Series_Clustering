@@ -1,0 +1,2 @@
+date_time,n_messages,second_interval,algo,algo_time,dist,dist_time,dist_tresh,n_clusters,affinity,linkage,num_labels,silhouette,calinski_harabasz,davies_bouldin,notes
+2023-05-20 18:44,1000,60,AgglomerativeClustering,0.058577061,dtw,793.9379237,2,None,precomputed,complete,10,0.906212392,43.05498689,3.066840832,Run after trimming data down by filtering by capitalization; entries manually entered
