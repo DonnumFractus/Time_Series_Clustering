@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kentauros-computing",
+  "private_key_id": "07f4c25efb478f1b2d4370852ada74576f48c4e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMVqurrlqZmWMQ\nMEfLqg8t2CBUe6O07Q9wvgP1/KXDVOY3mWQttEbMvTCMYJSqO7et7F7W/VuWkus+\njaDW0pZiRCrO+ZJ/rp//PtfMq+RI+AaVWqNcoa1HDMWVior5KT4f9guicEkYP4UM\nVLgfbkkMf6S3VF4yu/udGHBeAcPzXqc8yBXoaJKpyv4lcq0W1z+4evZ2gIenajki\nKqhHWbL6joJ4q7UQ2SIB7r/uMxZu1knCFPLEhn8bnb+FNUMON58d2N+GojnAKSmq\n3OCIVOPtJIi8RKJhy+NCLpXuLADLNxOTbJiD+mdxXxuI95CBIoXIPB9JXH/5Q/D9\ngfoUHsCJAgMBAAECggEABVQZQ+/XAvxh/fEUXjZAERT6utlCipxH88uwtMBy3iYf\nnsGMQDjcQ8iHNJHsLohCIPHyAy82LTYFlmsBD7kMHOHkL+OIM3YtS+2qmPa+jDyT\nh1+GtQquRxUJLf4f46F0skarRQAil9RINusapg8tLntBo1o63p3SUOVrQLhREM6S\nHD8qeSvzaxurHVvwGiWKKqWtSMO0HAEano/gEilJhBDFrCmt/iaQcMQ4ADzNTrua\nvu93sAHmW/SYTCfIFLi7suN/bSEPcVU2bywYEbhfGFIvcjW4VsUT4PPYacBKXcMN\n3U2a5k1HOzxX4W2FR7jgA3COAudlcpeuX9wGsXeStQKBgQD3582wI7dDd7mrgAIP\n13jdhBh/4bDe6N5ntxFbCEtg19jEAyiGEqDWNthIzZFWhPaO+hMObxPEJp/UY0sN\ns1erhG4lrAUlj6FvOnxUOYLXEdkKo3YbF7mWJVJrKwhczlsooWMMwRqQSUiaWR7Q\nklwSi2IQAIKX1zys8N6xqazIcwKBgQDTArL8thlUIUcQ4cyrUMxvqH/VVeYlt5+l\numqLtJduizlNrEjj0j8ZHO1OdvGCRINiUjyEsXv2cobxdhaDLFD75Qi2du1IjxpD\nS0xweUvchNIxfgsdAts6rvOhT4qunYa9gQV4mfQh+iocQlx2pYCJD4dOIT6EOKDP\nk9fHN+ygEwKBgCuwoKFwSfYL/Z7p+nMMSHLRuveesOs4IyooK1jdx1sT71HsNJIc\nalgWZlu+TuTunf1ouT8L+HHTVMu7jBioCMVjm33sKSQLgin2Jr85O4Pn01Z6pG/1\n6HE7tqDIfrrMa2hnuOsghSv0nmUFW9bqVGu4QNoNHPbhqgHYmYa6HoddAoGAHkWS\n3AJb29/yTA+4xxMOYS5xOG/cVqjjNGlsA6Li3q8Gh4gh5N0yxC2MNeeGekPN/XsC\nx56WxCJmDZn9XNAsxhZzi4nAPNqaz/CrhK9CHN7JMOR+P6k7Pk3/EbNRl/9tZx5t\nZIHhrkYvaGJ01Wik6gTaSnEmgN2G5IC3QhNZ1RUCgYAjvurjEDMRN1OwikXPXGKb\nCkGF+Ukf4+MBc9F/fTRLR26s4l0qcbSkehECoxs89ZtbMT1DNREyuN3/PDW47ifI\nCV+U3WLfWj8gE6DbmVr8NG37zi7iGLsk2+W2Lq583dT7yAOdeGgwjSx9+b0+zm84\nOmf0Qgfg6w7vaOWCsdCzAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-htedt@kentauros-computing.iam.gserviceaccount.com",
+  "client_id": "109767304685441528022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-htedt%40kentauros-computing.iam.gserviceaccount.com"
+}
