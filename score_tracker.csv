@@ -21,3 +21,4 @@ Rapid fuzz testing,12:21:33 AM,1000,60,95,180835,AgglomerativeClustering,0.00959
 clustering with power series filtering,8:40:30 PM,1817,60,95,141658,AgglomerativeClustering,0.029096603,dtw,71.20809913,TRUE,2,,precomputed,complete,10,0.914182339,21.39818413,4.241133556,first test
 clustering with power series filtering,03:36.2,1817,60,85,115628,AgglomerativeClustering,0.026349068,dtw,65.32149076,TRUE,2,,precomputed,complete,10,0.848590376,14.59631956,3.854821524,loweing fuzz score
 clustering with power series filtering,22:18.1,1815,60,65,127958,AgglomerativeClustering,0.022687674,dtw,59.77622485,TRUE,2,,precomputed,complete,11,0.901479172,21.06248299,4.001509748,maintaining sentences and lowering fuzz ratio
+DBSCAN Testing,2023-07-08 18:13:20.570795,1815,60,85,116313,DBSCAN,0.015206098556518555,dtw,40.582497358322144,True,NA,NA,NA,NA,7,0.9724465503926857,11.638547002541864,7.475631901186223,Default params
